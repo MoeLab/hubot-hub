@@ -1,0 +1,39 @@
+{
+    "name": "hubot-hub",
+    "version": "0.0.1",
+    "author": {
+      "name": "moeir",
+      "email": "moelabo@outlook.com"
+    },
+    "description": "A hubot adapter to connecting adapters.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/moelab/hubot-hub.git"
+    },
+    "license": "MIT",
+    "keywords": [
+      "hubot",
+      "hubot-hub",
+      "adapter"
+    ],
+    "deprecated": false,
+    "homepage": "https://github.com/moelab/hubot-hub#readme",
+    "bugs": {
+      "url": "https://github.com/moelab/hubot-hub/issues"
+    },
+    "main": "index.coffee",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bundleDependencies": [
+    ],
+    "dependencies": {
+    },
+    "peerDependencies": {
+      "hubot": ">=2.0"
+    },
+    "devDependencies": {
+      "coffee-script": ">=1.2.0"
+    }
+  }
+  
